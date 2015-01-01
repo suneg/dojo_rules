@@ -11,3 +11,4 @@ Deadly Skills
 * Git
 * Ruby
 * JavaScript
+* Brain-factor
