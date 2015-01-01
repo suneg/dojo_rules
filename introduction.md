@@ -12,3 +12,4 @@ Deadly Skills
 * Ruby
 * JavaScript
 * Brain-factor
+* Rebase
